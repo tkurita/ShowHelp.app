@@ -1,0 +1,3 @@
+[submodule "Contents/Resources/Script Libraries/OpenHelpBook.scptd"]
+	path = Contents/Resources/Script Libraries/OpenHelpBook.scptd
+	url = https://github.com/tkurita/OpenHelpBook.scptd
